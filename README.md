@@ -6,7 +6,7 @@ A single static page: `index.html` plus the cover and author photo in `images/`.
 
 ## Before going live
 
-Replace the placeholders in `index.html`: `[PAGE COUNT]`, `[PRICE]`, and `[YOUR EMAIL]` / `mailto:[YOUR-EMAIL]`.
+Replace the placeholders in `index.html`: `[PAGE COUNT]`, `[PRICE]`, and and contact email (done).
 
 ## Publish with GitHub Pages
 
