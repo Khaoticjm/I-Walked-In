@@ -10,6 +10,6 @@ Replace the placeholders in `index.html`: `[PAGE COUNT]`, `[PRICE]`, and and con
 
 ## Publish with GitHub Pages
 
-Settings → Pages → Deploy from a branch → `main` / root.
+Live at https://iwalkedin.com (GitHub Pages, deployed from `main` / root; custom domain set in `CNAME`).
 
 © 2026 Jalisa Basnight. All rights reserved.

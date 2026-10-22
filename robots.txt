@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://khaoticjm.github.io/I-Walked-In/sitemap.xml
+Sitemap: https://iwalkedin.com/sitemap.xml
